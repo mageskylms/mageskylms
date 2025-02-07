@@ -7,7 +7,7 @@
 </div>
 
 ## 🚀 Tecnologias que uso
-- **Front-End**: HTML5, CSS3, JavaScript (ES6+), React.js
+- **Front-End**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Back-End**: Node.js, PHP
 - **Banco de Dados**: SQLite, MySQL
 - **Versionamento de Código**: Git, GitHub
@@ -15,7 +15,7 @@
 - **Outros**: Linux
 
 ## 🌱 O que estou aprendendo
-- Melhorar a manipulação do DOM e eventos em JavaScript
+- POO com Typescript
 - Praticar conceitos do ES6 (promises, async/await, arrow functions)
 - Melhorar o conhecimento em Node.js e Express para back-end
 ---
