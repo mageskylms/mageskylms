@@ -8,6 +8,7 @@
 
 ## 🚀 Tecnologias que uso
 - **Front-End**: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Framework**: Angular
 - **Back-End**: Node.js, PHP
 - **Banco de Dados**: SQLite, MySQL
 - **Versionamento de Código**: Git, GitHub
@@ -15,9 +16,7 @@
 - **Outros**: Linux
 
 ## 🌱 O que estou aprendendo
-- POO com Typescript
-- Praticar conceitos do ES6 (promises, async/await, arrow functions)
-- Melhorar o conhecimento em Node.js e Express para back-end
+- Angular Framework
 ---
 
 **"Programando soluções com lógica e criatividade."**
