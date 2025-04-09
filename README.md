@@ -6,6 +6,8 @@
 
 </div>
 
+## Não deixe de testar: [TASKFLOW](https://magesky-taskflow.vercel.app)
+
 ## 🚀 Tecnologias que uso
 - **Front-End**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Framework**: Angular
@@ -14,9 +16,5 @@
 - **Versionamento de Código**: Git, GitHub
 - **Ferramentas**: VS Code, Figma
 - **Outros**: Linux
-
-## 🌱 O que estou aprendendo
-- Angular Framework
----
 
 **"Programando soluções com lógica e criatividade."**
