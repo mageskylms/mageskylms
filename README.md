@@ -6,7 +6,7 @@
 
 </div>
 
-## Não deixe de testar: [TASKFLOW](https://magesky-taskflow.vercel.app) [RegulaSis](https://regulasis.vercel.app)
+## Não deixe de testar: [TaskFLOW](https://magesky-taskflow.vercel.app) e  [RegulaSis](https://regulasis.vercel.app)
 
 ## 🚀 Tecnologias que uso
 - **Front-End**: HTML5, CSS3, JavaScript (ES6+), TypeScript
