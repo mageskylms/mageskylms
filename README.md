@@ -6,13 +6,14 @@
 
 </div>
 
-## Não deixe de testar: [TASKFLOW](https://magesky-taskflow.vercel.app)
+## Não deixe de testar: [TASKFLOW](https://magesky-taskflow.vercel.app) [RegulaSis](https://regulasis.vercel.app)
 
 ## 🚀 Tecnologias que uso
 - **Front-End**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Framework**: Angular
 - **Back-End**: Node.js, PHP
 - **Banco de Dados**: SQLite, MySQL
+- ****DevOps / Infra**: Amazon EC2 (AWS)
 - **Versionamento de Código**: Git, GitHub
 - **Ferramentas**: VS Code, Figma
 - **Outros**: Linux
