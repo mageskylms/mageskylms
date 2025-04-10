@@ -13,7 +13,7 @@
 - **Framework**: Angular
 - **Back-End**: Node.js, PHP
 - **Banco de Dados**: SQLite, MySQL
-- ****DevOps / Infra**: Amazon EC2 (AWS)
+- **DevOps / Infra**: Amazon EC2 (AWS)
 - **Versionamento de Código**: Git, GitHub
 - **Ferramentas**: VS Code, Figma
 - **Outros**: Linux
