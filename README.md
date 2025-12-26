@@ -6,8 +6,6 @@
 
 </div>
 
-## Não deixe de testar: [TaskFLOW](https://magesky-taskflow.vercel.app) e  [RegulaSis](https://github.com/mageskylms/regulasis-frontend)
-
 ## 🚀 Tecnologias que uso
 - **Front-End**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Framework**: Angular
