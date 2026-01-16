@@ -1,8 +1,8 @@
 <div align="center">
   
-  # Olá, eu sou o Lucas Magesky >> MSKY 👋
+  # Olá, eu sou o Lucas Magesky (MSKY) 👋
   
-  ### Fullstack Developer | Next.js & Node.js Enthusiast
+  ### Fullstack Developer | React, Next.js & TypeScript Expert
   
   <p>
     Criador de soluções digitais focadas em performance, design e experiência do usuário.
@@ -25,15 +25,14 @@
 
 <br>
 
-## 🚀 Stack Principal (Foco Atual)
+## 🚀 Stack Principal (Foco & Domínio)
 
-Essas são as tecnologias que utilizo diariamente para construir aplicações escaláveis e modernas, como o **TaskFlow**:
+Tecnologias que utilizo no dia a dia para construir aplicações completas e escaláveis, como o **TaskFlow**:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
@@ -41,17 +40,15 @@ Essas são as tecnologias que utilizo diariamente para construir aplicações es
 
 <br>
 
-## 🛠️ Cinto de Utilidades (Outras Skills)
+## 🛠️ Cinto de Utilidades
 
-Ferramentas e linguagens que domino e utilizo conforme a necessidade do projeto:
+Outras tecnologias que tenho conhecimento e utilizo para automação, análise de dados ou manutenção:
 
-| Categoria | Tecnologias |
+| Nível de Proficiência | Tecnologias |
 | :--- | :--- |
-| **Front-End** | Angular, HTML5, CSS3, JavaScript (ES6+) |
-| **Back-End** | PHP (Legacy/Maintenance), Server Actions |
-| **Banco de Dados** | MySQL, SQLite |
-| **DevOps & Cloud** | AWS (EC2), Vercel, Git/GitHub, Linux |
-| **Design** | Figma, UI/UX Concepts |
+| **Linguagens** | **Python**, JavaScript, SQL |
+| **Ferramentas** | Git, GitHub, VS Code, Figma |
+| **Básico / Inicial** | PHP, AWS (EC2), Angular |
 
 <br>
 
@@ -60,7 +57,7 @@ Ferramentas e linguagens que domino e utilizo conforme a necessidade do projeto:
 ### [TaskFlow v2.0](https://taskflow.msky.com.br)
 Um gerenciador de tarefas Kanban com design Glassmorphism, autenticação segura e foco em produtividade.
 - **Stack:** Next.js 16, TypeScript, Tailwind, Prisma, Postgres.
-- [Ver Repositório](https://github.com/SEU_USUARIO/taskflow) • [Acessar App](https://taskflow.msky.com.br)
+- [Ver Repositório](https://github.com/mageskylms/taskflow2.0) • [Acessar App](https://taskflow.msky.com.br)
 
 <br>
 
