@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Olá, eu sou o Lucas (Mage Sky) 👋
+  # Olá, eu sou o Lucas Magesky >> MSKY 👋
   
   ### Fullstack Developer | Next.js & Node.js Enthusiast
   
